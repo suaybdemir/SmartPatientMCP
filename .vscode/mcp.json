@@ -1,0 +1,13 @@
+{
+    "servers": {
+        "SmartPatientMCP": {
+            "type": "stdio",
+            "command": "dotnet",
+            "args": [
+                "run",
+                "--project",
+                "C:\\Users\\pc\\Documents\\SmartPatientMCP\\SmartPatientMCP\\SmartPatientMCP.csproj"
+            ]
+        }
+    }
+}
