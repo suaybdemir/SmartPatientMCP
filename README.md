@@ -17,8 +17,6 @@ This is a **console-based health management system** developed using **C# (.NET 
 - C# (.NET 8)
 - Entity Framework Core
 - SQL Server (LocalDB)
-- Console Application (CLI interface)
-- Clean Code & Layered Architecture Principles
 
 ---
 
